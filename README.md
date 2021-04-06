@@ -23,3 +23,5 @@ List of useful, free coding resources curated by me.
 ## Miscellaneous
 - **Ngrok** - easy way to host games. It basically forwards your localhost port to the world wide web. I've used it to host game servers like Minecraft. If the game you're using doesn't let you specify a port number to connect to, use Hamachi instead
 - **Git and Github** - I don't know why this wasn't the first thing we learned about in programming class. If you're using something like Google Drive file sync to backup and sync your code, you're doing it wrong.
+
+If you have anything to add feel free to create an issue or PR: https://github.com/EricPedley/resources
